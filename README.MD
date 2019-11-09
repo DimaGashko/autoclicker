@@ -4,7 +4,7 @@ It's a simple console script automate clicks on html elements. To add an element
 
 ## Why
 
-For example, you cn use this script on sites like forvo.com for a clicking and playing words automatically.
+For example, you can use this script on sites like forvo.com for a clicking and playing words automatically.
 
 ## Usage
 
