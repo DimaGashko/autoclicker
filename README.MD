@@ -1,6 +1,6 @@
 # Autoclicker
 
-It's a simple console script automate clicks in html elements. To add an element to autoclicker targets list you have to click on it with 'Alt' key.
+It's a simple console script automate clicks on html elements. To add an element to autoclicker targets list you have to click on it with 'Alt' key.
 
 ## Why
 
